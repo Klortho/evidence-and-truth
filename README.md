@@ -115,10 +115,7 @@ You may I say.
 > I will try them,  
 > And you will see.  
 >   
-> [Watches "The Truth in 5 Minutes",   
-> https://youtu.be/hgrunnLcG9Q and  
-> "Incontrovertible",   
-> https://youtu.be/y5UyynjxAyw]  
+> [Watches [The Truth in 5 Minutes](https://youtu.be/hgrunnLcG9Q), and [Incontrovertible](https://youtu.be/y5UyynjxAyw)]  
 >  
 > Say! I do want  
 > Evidence and truth!   
