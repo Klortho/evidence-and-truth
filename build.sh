@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pandoc --from=markdown --to=html README.md > index.html
+pandoc --standalone --css=style.css \
+  --from=markdown --to=html README.md > index.html
